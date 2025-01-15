@@ -14,7 +14,7 @@ public class LoginMaps {
     @FindBy(id="btn-entrar")
     protected WebElement btnEntrar;
 
-    @FindBy(id="nav-mobile")
+    @FindBy( id="nav-mobile")
     protected WebElement linkBoasVindas;
 
 
