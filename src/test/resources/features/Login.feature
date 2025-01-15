@@ -20,4 +20,4 @@
       Exemplos:
         |usuario |senha |
         |admin   |admin |
-        |Italo   |carlo |
+        |Italo   |admin |
