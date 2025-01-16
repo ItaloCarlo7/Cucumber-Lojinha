@@ -20,3 +20,11 @@ Os sub-tópicos abaixo descrevem algumas decisões tomadas no projeto.
 Testes automatizados para validar o login, com usuario e senha corretos e com usuario e senha incorreto.
 
 ## Notas Gerais
+Neste projeto foi utilizado o uso de Page Object.
+Pacote core e classe Driver.
+Pacote maps e classe LoginMaps.
+Pacote pages e classe LoginPage.
+Pacote runner e classe RunnerTest.
+Pacote steps e classe LoginSteps.
+Na pasta resources o pacote features e file Login.feature.
+
